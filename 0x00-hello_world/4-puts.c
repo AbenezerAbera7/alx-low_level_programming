@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 
-/*
+/**
  * main - prints the phrase "Programming is like building a multilingual puzzle"
- * and shoul end with(return) value 0(zero) if it is correct.
+ * Return: should end with(return) value 0(zero) if it is correct.
  */
 
 int main(void)
