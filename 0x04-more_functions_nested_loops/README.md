@@ -24,4 +24,4 @@ File 100-prime_factor.c is a program that finds and prints the largest prime fac
 
 File 101-print_number.c is a function that prints an integer using only _putchar().
 
-File main.h is the header file containing all the function prototypes used in this project..
+File main.h is the header file containing all the function prototypes used in this project.
