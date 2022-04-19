@@ -22,4 +22,4 @@ File 100-atoi.c is a function that convert a string to an integer.
 
 File 101-keygen.c is a program that generates random valid passwords for the program 101-crackme.
 
-File main.h is the header file containing all the function prototypes used in this project.
+File main.h is the header file containing all the function prototypes used in this project .
