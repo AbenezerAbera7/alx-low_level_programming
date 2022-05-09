@@ -6,4 +6,4 @@ File 2-print_dog.c is a function that prints a struct dog.
 
 File 4-new_dog.c is a function that creates a new dog.
 
-File 5-free_dog.c is a function that frees dogs.
+File 5-free_dog.c is a function that frees dogs..
