@@ -6,4 +6,4 @@ File 2-print_strings.c is a function that prints strings, followed by a new line
 
 File 3-print_all.c is a function that prints anything.
 
-File variadic_functions.h is the header file that contains all the function prototypes.
+File variadic_functions.h is the header file that contains all the function prototypes..
